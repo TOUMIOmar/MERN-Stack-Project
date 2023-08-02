@@ -1,0 +1,14 @@
+.form {
+    margin-top: 50px;
+    width: 40%;
+    background-color: #f8f9fa;;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: justify;
+    color: #777;
+    visibility:visible
+}
+
+.error {
+    color: red;
+}
